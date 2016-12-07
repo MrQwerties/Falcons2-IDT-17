@@ -1,0 +1,10 @@
+Questions:
+  Is there a system configuration the black boxes would frequently be run on? (If so, what?)
+  What system configuration will the testing tool be usually run on?
+  What kind of information are we trying to obtain from the black box testing device? Should it attempt to suggest fixes for the vulnerabilities, or just note them and tell you about it?
+  What basic tests can your existing framework already perform?
+  What types of input and output is expected from the software? Is the input just a black box, or will unit tests be provided as well?
+  What “exceptional behavior” are we expecting from the software?
+
+Team: Falcons_2, Poolesville High School
+Brian Kee, Kevin Chen, Vincent Bian, Daniel Li
